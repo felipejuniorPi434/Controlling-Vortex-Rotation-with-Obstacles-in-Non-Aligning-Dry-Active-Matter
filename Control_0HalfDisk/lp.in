@@ -1,0 +1,17 @@
+sizeHistRdf	200
+filmclick	0
+Nessay		20
+d0	1.0
+n_celula	3
+noiseTheta	0.001
+nparallel	0
+CY_AF	101000
+CY_BE	100000
+NOBS	2
+Thecycle	1000000
+diam	1.0				
+stepT	0.001	
+kappa	50.0
+NstepT	10000000
+kappaObs	1000.00
+v0		1.0
